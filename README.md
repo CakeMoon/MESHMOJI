@@ -5,3 +5,5 @@ This project explores 3D scan, real-time facial recognition, and mesh processing
 Emoji is popular in social network while 3D scanning seems far from our everyday life. We try to link these two terms so that 3D scanning becomes interesting and useful for people.
 
 **Facial recognation part is referenced from https://github.com/xionghc/Facial-Expression-Recognition.**
+- Lience: GNU General Public License v3.0
+- Copyright to: xionghc
